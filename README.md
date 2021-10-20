@@ -1,5 +1,7 @@
 # Projeto Arduíno | Sexto Semestre - UNINOVE
 Projeto que consiste em automatizar um ventilador através da temperatura, que está sendo recuperada de uma API utilizando o ESP-01
+<br>
+<a href="https://www.youtube.com/watch?v=bhNj7T8SkS8" target="_blank">Clique aqui para assistir uma demonstração do projeto.</a>
 
 ## Configurando a IDE
 Antes de tudo é preciso fazer com que a IDE do arduíno possa reconhecer e gravar em placas ESP8266. Para isso você precisa acessar <b>Arquivo > Preferências</b> e no campo <b>URLs adicionais para Gerenciadores de Placas</b> adicionar a URL: <a>https://arduino.esp8266.com/stable/package_esp8266com_index.json</a>
